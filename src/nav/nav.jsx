@@ -95,4 +95,4 @@ import Menu from '@mui/material/Menu';
   );
 };
 
-export default MenuAppBar
+export default MenuAppBar;
