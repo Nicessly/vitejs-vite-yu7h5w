@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import MenuAppBar from './nav/nav'
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-       <h1>hola</h1>
+       <MenuAppBar/>
       </div>
     </>
   )
